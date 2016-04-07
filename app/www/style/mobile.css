@@ -1,0 +1,25 @@
+body 
+{
+    background-image: url("../images/christmastree_mobile.jpg");
+}
+
+#wrapper
+{
+    width: 80%;
+    min-height: 100%;
+}
+
+#countdown
+{
+    font-size: 2em;
+}
+
+#title
+{
+    font-size: 2em;
+}
+
+.quote .text
+{
+    font-size: 1em;
+}
