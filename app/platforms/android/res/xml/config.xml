@@ -6,6 +6,11 @@
         <param name="onload" value="true" />
     </feature>
     <allow-intent href="market:*" />
+    <icon density="xxxhdpi" src="assets/icon_xxxhdpi.png" />
+    <icon density="xxhdpi" src="assets/icon_xxhdpi.png" />
+    <icon density="xhdpi" src="assets/icon_xhdpi.png" />
+    <icon density="hdpi" src="assets/icon_hdpi.png" />
+    <icon density="mdpi" src="assets/icon_mdpi.png" />
     <name>ChristmasCountdown</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
