@@ -1,0 +1,22 @@
+{
+  "name": "christmascountdown",
+  "version": "1.0.0",
+  "description": "A countdown to Christmas Day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarnaDesign/christmascountdown.git"
+  },
+  "author": "KarnaDesign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KarnaDesign/christmascountdown/issues"
+  },
+  "homepage": "https://github.com/KarnaDesign/christmascountdown#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
